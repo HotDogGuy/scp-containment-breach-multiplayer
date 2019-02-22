@@ -1,0 +1,33 @@
+-- Lisez entièrement le tutoriel ci-dessous afin d'être sur de n'avoir aucun soucis en jeu. --
+
+-- Pour jouer en multijoueur, il vous faudra utiliser Hamachi ou Tunngle. 
+(Personnellement j'utilise Hamachi car c'est le plus simple). --
+
+
+
+1/ Rendez-vous sur le jeu, puis dans l'onglet "NEW GAME", décochez la case "ENABLE INTRO".
+Note : Tous les joueurs devront le faire, sinon vous ne vous verrez pas dans le jeu.
+
+2/ Vérifiez que Hamachi/Tunngle est lancé et prêt à l'emploi puis l'hôte (celui qui héberge) cliquera sur "HOST",
+tandis que celui/ceux qui vont rejoindre devront cliquer sur "JOIN".
+
+3/ Config de l'hôte :
+
+PORT : 25550 (n'y touchez pas)
+IP : (Ne laissez pas l'IP par défaut, placez-y l'adresse IPV4 du créateur de la partie).
+Note : L'adresse IPV4 se trouve à côté du pseudo dans les logiciels Hamachi et Tunngle.
+
+Exemple : 25.76.9.122
+
+4/ Les personnes joignants la game placeront l'IPV4 de l'hébergeur dans la case IP, et n'auront plus qu'à joindre.
+
+5/ EN CAS DE PROBLEME : - Pensez à vérifier que votre antivirus ou votre pare-feu ne bloque pas la connexion (très fréquent !)
+                        - Checkez votre Hamachi/Tunngle voir si toutes les personnes sont connectées au réseau.
+                        - Et évidemment, n'hésitez pas à relire le tutoriel ou revoir la vidéo pour être certain de n'avoir rien manqué.
+
+
+** Cordialement, Predalisk **
+
+<3  Enjoy ! <3
+
+https://www.youtube.com/channel/UCugInib6j7TZaH-7bKG3sYQ
